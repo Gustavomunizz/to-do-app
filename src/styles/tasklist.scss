@@ -1,5 +1,5 @@
 section.task-list {
-  background: var(--shapes);
+  background: var(--shapes); 
   border-radius: 1rem;
   
   margin-top: -10rem;
@@ -9,7 +9,7 @@ section.task-list {
   
   header {
     display: flex;
-    flex-direction: row;
+    flex-direction: row; 
     align-items: center;
     justify-content: space-between;
     
